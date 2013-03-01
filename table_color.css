@@ -1,0 +1,20 @@
+body {
+  font-family: 'Arial';
+  font-size: 46px;
+  text-align: center;
+}
+
+.centered {
+  margin: 0 auto;
+  padding-top: 60px;
+  width: 600px;
+}
+
+table {
+  border: 1px solid black;
+  width: 100%;
+}
+
+td, tr {
+  padding: 10px;
+}
